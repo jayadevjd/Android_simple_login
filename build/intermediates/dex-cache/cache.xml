@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jayadev/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_a880e34f393a3170bde44a93ac996a85625fa8ce.jar" />
+    </item>
+    <item
+        jar="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_ad7ebe51b698b4b0e86b00f67630403bcb6b1f6c.jar" />
+    </item>
+    <item
+        jar="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_da8d167a373af371b2a451983ac6bea225f2b742.jar" />
+    </item>
+    <item
+        jar="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_a225000b69d36e437079786eef917c386a9a154f.jar" />
+    </item>
+    <item
+        jar="/Users/Jayadev/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_2fd77c2cfe3392c37a124002476c62c9d5d498d7.jar" />
+    </item>
+    <item
+        jar="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_93a5f3ea0a83cd35440ae5b82970b88e79e642fe.jar" />
+    </item>
+    <item
+        jar="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_415c323f8f31f9b5b65f274dcb30ee736a3abc7a.jar" />
+    </item>
+    <item
+        jar="/Users/Jayadev/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Jayadev/AndroidStudioProjects/downloads/LogIn/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_ee247ce523540774f72c7cb0e1689d02da99aee0.jar" />
+    </item>
+
+</items>
